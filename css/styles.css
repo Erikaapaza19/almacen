@@ -1,0 +1,48 @@
+.Computadoras {
+    background: #db0b7e;
+    color: rgb(233, 179, 227);
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #aa6fa5;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+.PC {
+    background: #c6f176;
+    color: #14b0e9;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #8dd350;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+.Teclados  {
+    background: #C9F2B7;
+    color: #2537a8;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #babed6;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    }
+    /* colores para tabla */
+    .tabla-Computadoras {
+        font-weight: bold; padding: 15px; border-left:20px solid #daa6d5;
+    }
+    .Equipos_de_Sonido {
+        font-weight: bold; padding: 15px; border-left:20px solid #1d860f;
+    }
+    .Tabletas {
+        font-weight: bold; padding: 15px; border-left:20px solid #51b327;
+    }
